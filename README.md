@@ -6,7 +6,7 @@
 
 Require the package via composer
 
-`composer require juhlinus/inertia-vue`
+`composer require rene-roscher/inertia-vue`
 
 ## <p align="center">Usage</p>
 
