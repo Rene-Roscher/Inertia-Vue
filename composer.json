@@ -1,7 +1,7 @@
 {
     "name": "rene-roscher/inertia-vue",
     "description": "A laravel frontend command to turn your Controllers code to Vue Views",
-    "version": "0.1.2",
+    "version": "0.1.4",
     "type": "library",
     "license": "MIT",
     "authors": [
